@@ -8400,11 +8400,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\backtestthree\\backtestthree.csproj",
+      "projectUniqueName": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\GithubPost\\backtestthree\\backtestthree.csproj",
       "projectName": "backtestthree",
-      "projectPath": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\backtestthree\\backtestthree.csproj",
+      "projectPath": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\GithubPost\\backtestthree\\backtestthree.csproj",
       "packagesPath": "C:\\Users\\avery simon\\.nuget\\packages\\",
-      "outputPath": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\backtestthree\\obj\\",
+      "outputPath": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\GithubPost\\backtestthree\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8426,8 +8426,8 @@
       "frameworks": {
         "uap10.0.17763": {
           "projectReferences": {
-            "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\backtestthree.Core\\backtestthree.Core.csproj": {
-              "projectPath": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\backtestthree.Core\\backtestthree.Core.csproj"
+            "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\GithubPost\\backtestthree.Core\\backtestthree.Core.csproj": {
+              "projectPath": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\GithubPost\\backtestthree.Core\\backtestthree.Core.csproj"
             }
           }
         }

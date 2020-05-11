@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\backtestthree.Core\\backtestthree.Core.csproj": {}
+    "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\GithubPost\\backtestthree.Core\\backtestthree.Core.csproj": {}
   },
   "projects": {
-    "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\backtestthree.Core\\backtestthree.Core.csproj": {
+    "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\GithubPost\\backtestthree.Core\\backtestthree.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\backtestthree.Core\\backtestthree.Core.csproj",
+        "projectUniqueName": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\GithubPost\\backtestthree.Core\\backtestthree.Core.csproj",
         "projectName": "backtestthree.Core",
-        "projectPath": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\backtestthree.Core\\backtestthree.Core.csproj",
+        "projectPath": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\GithubPost\\backtestthree.Core\\backtestthree.Core.csproj",
         "packagesPath": "C:\\Users\\avery simon\\.nuget\\packages\\",
-        "outputPath": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\backtestthree.Core\\obj\\",
+        "outputPath": "D:\\WSB_WinApp\\UWP Crap\\backgroundtestthree\\GithubPost\\backtestthree.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
